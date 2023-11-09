@@ -1,0 +1,30 @@
+export default [
+    {
+        id:1,
+        name:'Sw',
+        email:'lufalufa.1399@gmail.com',
+        avatarUrl:
+        'https://cdn.pixabay.com/photo/2015/09/04/18/55/yoda-922520_1280.png'
+    },
+    {
+        id:2,
+        name:'Carla',
+        email:'sisi@gmail.com',
+        avatarUrl:
+        'https://cdn.pixabay.com/photo/2014/04/03/00/39/lemonade-308970_1280.png'
+    },
+    {
+        id:3,
+        name:'Zelda',
+        email:'lucas13@hotmail.com',
+        avatarUrl:
+        'https://media.istockphoto.com/id/1223025244/pt/vetorial/white-telephone-with-speech-bubble-chat-icon-isolated-with-long-shadow-support-customer.jpg?s=2048x2048&w=is&k=20&c=RMsjb3i0cQylDHH1746TS72wz9PmwiVHgEXUBkDvD-k='
+    },
+    {
+        id:4,
+        name:'Aspas',
+        email:'victorpositivo14@gmail.com',
+        avatarUrl:
+        'https://static.wikia.nocookie.net/callofduty/images/b/bb/CoDPoints_Icon.png/revision/latest?cb=20220429011612'
+    },
+];
